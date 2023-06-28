@@ -2,7 +2,7 @@ package class04;
 
 public class Code01_MergeSort {
 
-	// 递归方法实现
+	// 递归方法实现 111
 	public static void mergeSort1(int[] arr) {
 		if (arr == null || arr.length < 2) {
 			return;
